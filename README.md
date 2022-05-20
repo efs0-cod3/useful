@@ -1,4 +1,4 @@
-# usefull
+# Useful resourses
 Here I have useful snippets to reuse when needed.
 
 ## RegEx's
